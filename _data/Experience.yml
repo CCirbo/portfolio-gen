@@ -1,22 +1,23 @@
-subject: Experiences
+subject: Work History
 listing-order: 2
 icon: "/assets/img/briefcase.svg"
 contents:
-  - title: Nanosoft
-    role: Project Manager
+  - title: AC Mechanical and Engineering, LLC
+    role: Office Operations Manager
     description:
-      - Led development of a new chatbot software utilizing large language model
-      - Co-designer of '*Kopilot*' and '*Gemmini*'
-    date: Jan. 2024 - Ongoing
-  - title: Amazone
-    role: Senior Software Engineer
-    description: 
-      - Built a Java microservice, database schema to manage customer accounts
-      - Enhanced internal pipelines to query real-time data from client devices
-    date: Apr. 2016 - Dec. 2018
-  - title: Pacebook
-    role: Software Engineer Intern
-    description: 
-      - Designed the dynamic website using React for data visualization
-      - Integrated '*Yolo*' to boost the accuracy of the object detection
-    date: Jul. 2013 - Sep. 2013
+      - Managed critical deadlines for payroll, taxes, and audits, ensuring accuracy, compliance, and timely execution.
+      - Transitioned payroll, HR,  insurance and benefits management in-house, saving $21,000 annually while maintaining meticulous attention to regulatory requirements.
+      - Partnered with leadership to design and implement efficient administrative systems, ensuring processes were adaptable, scalable, and aligned with organizational values.
+    date: Jan. 2009 - March 2024
+  # - title: Amazone
+  #   role: Senior Software Engineer
+  #   description: 
+  #     - Built a Java microservice, database schema to manage customer accounts
+  #     - Enhanced internal pipelines to query real-time data from client devices
+  #   date: Apr. 2016 - Dec. 2018
+  # - title: Pacebook
+  #   role: Software Engineer Intern
+  #   description: 
+  #     - Designed the dynamic website using React for data visualization
+  #     - Integrated '*Yolo*' to boost the accuracy of the object detection
+  #   date: Jul. 2013 - Sep. 2013

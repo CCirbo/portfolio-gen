@@ -2,20 +2,29 @@ subject: Projects
 listing-order: 3
 icon: "/assets/img/clipboard-list.svg"
 contents:
-  - title: "ChatPPT ([https://chat.opena1.com/](https://chat.openai.com/))"
+  - title: "Down the Rabbit Hole"
     description: 
-      - Chatbot developed based on a large language model
-      - Designed Generative algorithm to generate novel human-like content
-      - "Technology Used: Rust, Typescript, Python, Ruby"
-    image: "![](https://i.ibb.co/hX2wYLB/231321.webp)"
-  - title: "AW5-cli ([https://github.com/aw5/aw5-cli](https://github.com/aws/aws-cli))"
+      - A dynamic game that leverages CSV and APIs to explore relationships in the animal kingdom.
+      - Designed with intuitive UI and robust backend logic.
+      - Designed educational game with a Rails backend that processes CSV files to seed animal and park data into a robust Postgres database, ensuring data consistency and accessibility.
+      - Integrated YouTube API for dynamic “How to Draw” video tutorials, enriching user experience with interactive and educational content.
+      - Implemented a toggleable dyslexia-friendly font and ensured compliance with accessibility best practices, creating an inclusive experience for users with diverse needs.
+      - Designed a fully responsive frontend in React, providing seamless usability across all screen sizes and devices.erse needs.
+      - Applied test-driven development (TDD) with RSpec and Cypress to ensure robust functionality, data accuracy, and scalability.
+      - "Technology Used: JavaScript, React, Rails API, Postgres, YouTube API, RSpec, Cypress"
+    image: "/assets/img/downtherabbithole.png"
+    deploy: "[Down the Rabbit Hole deployed site](https://down-the-rabbit-hole.netlify.app)"
+    github: "https://github.com/Down-the-Rabbit-Holes"
+  - title: "Tea Subscription Service"
     description: 
-      - Universal Command Line Interface for Amazone Web Services
-      - Developed a scheme to facilitate users’ authentication without having to remember their credentials
-      - "Technology Used: Typescript, Python, Go"
-    image: "![](https://i.ibb.co/Ttb5Qn9/21321312.webp)"
-  - title: "PiTorch ([https://pitorch.org/](https://pytorch.org/))" 
-    description: 
-      - Machine learning library for applications such as computer vision and natural language processing
-      - "Technology Used: Python, Cuda, Objective-C++"
-    image: "![](https://i.ibb.co/R9150c4/12421323.webp)"
+      - Built a Rails backend and React frontend to manage tea subscription services, completing the project in just 20 hours.s
+      - Developed full CRUD functionality and real-time updates using state hooks in React, enabling efficient data operations and seamless user interaction.
+      - Seeded the database with dynamic subscription data to simulate real-world scenarios and ensure robust functionality.
+      - Designed a responsive, fully tabbable user interface with accessibility best practices, ensuring inclusivity across diverse devices and audiences.
+      - "Technology Used: Ruby on Rails, React, Postgres, RSpec, Cypress"
+    image: "/assets/img/teatimehome.png"
+  # - title: "PiTorch ([https://pitorch.org/](https://pytorch.org/))" 
+  #   description: 
+  #     - Machine learning library for applications such as computer vision and natural language processing
+  #     - "Technology Used: Python, Cuda, Objective-C++"
+  #   image: "![](https://i.ibb.co/R9150c4/12421323.webp)"
