@@ -14,7 +14,7 @@ contents:
       - "Technology Used: JavaScript, React, Rails API, Postgres, YouTube API, RSpec, Cypress"
     image: "/assets/img/downtherabbithole.png"
     deploy: "[Down the Rabbit Hole deployed site](https://down-the-rabbit-hole.netlify.app)"
-    github: "https://github.com/Down-the-Rabbit-Holes"
+    github: "[Down the Rabbit Hole Repo](https://github.com/Down-the-Rabbit-Holes)"
   - title: "Tea Subscription Service"
     description: 
       - Built a Rails backend and React frontend to manage tea subscription services, completing the project in just 20 hours.s
@@ -23,6 +23,9 @@ contents:
       - Designed a responsive, fully tabbable user interface with accessibility best practices, ensuring inclusivity across diverse devices and audiences.
       - "Technology Used: Ruby on Rails, React, Postgres, RSpec, Cypress"
     image: "/assets/img/teatimehome.png"
+    image: "/assets/img/teatimedetails.png"
+    deploy: "[Tea Time Subscription BE Repo](https://github.com/CCirbo/tea-time-subscription-BE)"
+    github: "[Tea Time Subscription FE Repo](https://github.com/CCirbo/tea-time-subscription-FE)"
   # - title: "PiTorch ([https://pitorch.org/](https://pytorch.org/))" 
   #   description: 
   #     - Machine learning library for applications such as computer vision and natural language processing
