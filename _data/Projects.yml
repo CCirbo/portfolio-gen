@@ -13,6 +13,7 @@ contents:
       - Applied test-driven development (TDD) with RSpec and Cypress to ensure robust functionality, data accuracy, and scalability.
       - "Technology Used: JavaScript, React, Rails API, Postgres, YouTube API, RSpec, Cypress"
     image: "![image](/assets/img/downtherabbithole.png)"
+    gif: "![image](/assets/img/downtherabbitholedetails.png)"
     deploy: "[Down the Rabbit Hole deployed site](https://down-the-rabbit-hole.netlify.app)"
     github: "[Down the Rabbit Hole Repo](https://github.com/Down-the-Rabbit-Holes)"
   - title: "Tea Subscription Service"
