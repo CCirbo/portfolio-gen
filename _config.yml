@@ -4,6 +4,7 @@ profile_img: /assets/img/logo.png
 
 name: "Candice Cirbo"
 job: "Software Developer"
+about_me: "I am a software developer with a passion for creating innovative solutions that drive business growth. I have a proven track record of delivering high-quality software solutions in a fast-paced, collaborative environment. I am skilled in full-stack development, with expertise in Ruby on Rails, React, and Postgres. I am a quick learner and a team player, with a strong work ethic and a commitment to excellence."
 
 phone_number: 303-913-3388
 address: Denver, CO
@@ -13,6 +14,7 @@ github_username: github
 # instagram_username: instagram
 # twitter_username: twitter
 # facebook_username: facebook
+
 
 theme: jekyll-professional-resume
 exclude:
