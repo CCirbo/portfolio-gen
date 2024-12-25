@@ -1,13 +1,9 @@
-subject: Awards
+subject: Competitions
 listing-order: 7
 icon: "/assets/img/trophy.svg"
 contents:
-  - title: IEEEE Fellow
-    description: Association for Natural Language Processing
-    date: Feb. 2024
-  - title: Gogle CodeJam
-    description: 3rd place in Gogle CodeJam
-    date: Jul. 2013
-  - title: Millennium Hackaton
-    description: won the best Inspirational Youth Awards
-    date: Oct. 2010
+  - title: Turing School Demo Competition
+    description: School Demo Competition -- Down the Rabbit Hole
+    date: Dec. 2024
+  - title: Down the Rabbit Hole
+   
