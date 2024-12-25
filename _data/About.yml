@@ -1,8 +1,9 @@
+subject: About Me
 listing-order: 1
 icon: "/assets/img/house.svg"
 contents:
   - description: |
-      ## About Me
+    
       
       Growing up in a small town with limited resources, my local library was my sanctuary—a place where I discovered the power of free information and a lifelong love of learning. That curiosity and drive to solve problems shape who I am today as a software developer.
 

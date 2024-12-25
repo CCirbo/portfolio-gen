@@ -13,7 +13,7 @@ contents:
       - Applied test-driven development (TDD) with RSpec and Cypress to ensure robust functionality, data accuracy, and scalability.
       - "Technology Used: JavaScript, React, Rails API, Postgres, YouTube API, RSpec, Cypress"
     image: <img src="assets/img/downtherabbithole.png" alt="image" />
-    gif: <img src="/assets/img/downtherabbitholedetails.png" alt="image" />
+    gif: <img src="assets/img/downtherabbitholedetails.png" alt="image" />
     deploy: "[Down the Rabbit Hole deployed site](https://down-the-rabbit-hole.netlify.app)"
     github: "[Down the Rabbit Hole Repo](https://github.com/Down-the-Rabbit-Holes)"
   - title: "Tea Subscription Service"
@@ -23,8 +23,8 @@ contents:
       - Seeded the database with dynamic subscription data to simulate real-world scenarios and ensure robust functionality.
       - Designed a responsive, fully tabbable user interface with accessibility best practices, ensuring inclusivity across diverse devices and audiences.
       - "Technology Used: Ruby on Rails, React, Postgres, RSpec, Cypress"
-    gif: <img src="/assets/img/teatimehome.png" alt="image" />
-    image: <img src="/assets/img/teatimedetails.png" alt="image" />
+    gif: <img src="assets/img/teatimehome.png" alt="image" />
+    image: <img src="assets/img/teatimedetails.png" alt="image" />
     deploy: "[Tea Time Subscription BE Repo](https://github.com/CCirbo/tea-time-subscription-BE)"
     github: "[Tea Time Subscription FE Repo](https://github.com/CCirbo/tea-time-subscription-FE)"
   # - title: "PiTorch ([https://pitorch.org/](https://pytorch.org/))" 
