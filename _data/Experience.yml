@@ -1,23 +1,25 @@
-subject: Work History
+subject: Experience
 listing-order: 3
 icon: "/assets/img/briefcase.svg"
 contents:
-  - title: AC Mechanical and Engineering, LLC
+  - title: AC Mechanical and Engineering, LLC, Wheat Ridge, CO
     role: Office Operations Manager
     description:
       - Managed critical deadlines for payroll, taxes, and audits, ensuring accuracy, compliance, and timely execution.
-      - Transitioned payroll, HR,  insurance and benefits management in-house, saving $21,000 annually while maintaining meticulous attention to regulatory requirements.
+      - Transitioned payroll, HR,  insurance and benefits management in-house, saving $18,000 annually while maintaining meticulous attention to regulatory requirements.
       - Partnered with leadership to design and implement efficient administrative systems, ensuring processes were adaptable, scalable, and aligned with organizational values.
-    date: Jan. 2009 - March 2024
-  # - title: Amazone
-  #   role: Senior Software Engineer
-  #   description: 
-  #     - Built a Java microservice, database schema to manage customer accounts
-  #     - Enhanced internal pipelines to query real-time data from client devices
-  #   date: Apr. 2016 - Dec. 2018
-  # - title: Pacebook
-  #   role: Software Engineer Intern
-  #   description: 
-  #     - Designed the dynamic website using React for data visualization
-  #     - Integrated '*Yolo*' to boost the accuracy of the object detection
-  #   date: Jul. 2013 - Sep. 2013
+    date: January 2009 - March 2024
+  - title: Burner Design & Control, Inc., Hazelwood, MO
+    role: Customer Service Representative(CRS)
+    description: 
+      - Collaborated with the CFO and his team to facilitate the transition of customer and vendor accounts to a new company after the sale of AC Mechanical.
+      - Simultaneously supported AC Mechanical’s operations during its wind-down, maintaining two separate financial records in compliance with distinct company policies.
+      - Ensured seamless operations across both companies during a period of significant organizational change.
+    date: July 2022 - February 2023
+  - title: Freelance Graphic Designer and Content Creator
+    role: Various Clients
+    description: 
+      - Designed a restaurant menu for a local business, combining branding and usability for an engaging customer experience.
+      - Created marketing brochures for a reflexology practice, including layout design, branding, and content writing.
+      - Wrote and designed articles and layouts for a church newsletter, emphasizing clear communication and audience engagement.
+    date: March 2007 - Dec. 2009

@@ -4,25 +4,37 @@ icon: "/assets/img/clipboard-list.svg"
 contents:
   - title: "Down the Rabbit Hole"
     description: 
-      - A dynamic game that leverages CSV and APIs to explore relationships in the animal kingdom.
-      - Designed with intuitive UI and robust backend logic.
-      - Designed educational game with a Rails backend that processes CSV files to seed animal and park data into a robust Postgres database, ensuring data consistency and accessibility.
-      - Integrated YouTube API for dynamic “How to Draw” video tutorials, enriching user experience with interactive and educational content.
-      - Implemented a toggleable dyslexia-friendly font and ensured compliance with accessibility best practices, creating an inclusive experience for users with diverse needs.
-      - Designed a fully responsive frontend in React, providing seamless usability across all screen sizes and devices.erse needs.
-      - Applied test-driven development (TDD) with RSpec and Cypress to ensure robust functionality, data accuracy, and scalability.
-      - "Technology Used: JavaScript, React, Rails API, Postgres, YouTube API, RSpec, Cypress"
+      - Down the Rabbit Hole is a collaborative project built by a team of five using Ruby on Rails, React, and Cypress. It is an educational game designed to teach users about food webs and relationships in the animal kingdom by leveraging dynamic data from CSV files and APIs.
+    Learning Goals: 
+      - This project deepened my understanding of Service-Oriented Architecture (SOA) and multi-app systems, including the complexities of integrating a Rails backend with a React frontend. It provided hands-on experience with project management, team collaboration, and designing applications with accessibility and user equity in mind.
+    Stretch Goals Achieved:
+      - Designed and implemented accessibility features like a toggleable dyslexia-friendly font to promote inclusivity for diverse users. 
+      - Integrated the YouTube API to enhance user engagement with dynamic video tutorials. 
+    My Contributions:  
+      - Built backend logic in Rails to process and seed animal and park data into a Postgres database for accurate and accessible data retrieval.
+      - Created a responsive React frontend, ensuring seamless usability across devices.
+      - Conducted robust testing using RSpec and Cypress to validate functionality, scalability, and error handling.
+    Technologies Used:  
+      - JavaScript, React, Rails API, Postgres, YouTube API, RSpec, Cypress
     image: <img src="assets/img/downtherabbithole.png" alt="image" />
     gif: <img src="assets/img/downtherabbitholedetails.png" alt="image" />
     deploy: "[Down the Rabbit Hole deployed site](https://down-the-rabbit-hole.netlify.app)"
     github: "[Down the Rabbit Hole Repo](https://github.com/Down-the-Rabbit-Holes)"
   - title: "Tea Subscription Service"
     description: 
-      - Built a Rails backend and React frontend to manage tea subscription services, completing the project in just 20 hours.s
-      - Developed full CRUD functionality and real-time updates using state hooks in React, enabling efficient data operations and seamless user interaction.
-      - Seeded the database with dynamic subscription data to simulate real-world scenarios and ensure robust functionality.
-      - Designed a responsive, fully tabbable user interface with accessibility best practices, ensuring inclusivity across diverse devices and audiences.
-      - "Technology Used: Ruby on Rails, React, Postgres, RSpec, Cypress"
+      - Tea Subscription Service is a solo project built using Ruby on Rails and React, completed within 20 hours. The application allows users to manage tea subscriptions, offering CRUD functionality and dynamic interactions.
+    Learning Goals:  
+      - This project was my first experience independently building a full-stack application within a strict 20-hour time frame. I applied RESTful API design principles, created a Rails backend and React frontend, and ensured test-driven development (TDD). Developing a subscription management system allowed me to deepen my understanding of both backend and frontend workflows while prioritizing efficiency and scalability under tight constraints.
+    Stretch Goals Achieved: 
+      - Designed an accessible, fully tabbable user interface, adhering to best practices for inclusivity.
+      - Included sorting functionality to enhance the user experience.
+    My Contributions:  
+      - Developed a RESTful API in Rails to manage user subscriptions, including CRUD functionality for retrieving, updating, and canceling subscriptions.
+      - Designed a responsive React frontend with dynamic interactions for seamless user experience.
+      - Conducted end-to-end testing using RSpec and Cypress to validate functionality, scalability, and error handling.
+      - Seeded the Postgres database with dynamic subscription data to simulate real-world scenarios and ensure robust functionality.
+    Technologies Used:  
+      - Ruby on Rails, React, Postgres, RSpec, Cypress
     gif: <img src="assets/img/teatimehome.png" alt="image" />
     image: <img src="assets/img/teatimedetails.png" alt="image" />
     deploy: "[Tea Time Subscription BE Repo](https://github.com/CCirbo/tea-time-subscription-BE)"
