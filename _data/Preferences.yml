@@ -1,0 +1,16 @@
+subject: Preferences
+listing-order: 6
+icon: "/assets/img/globe.svg"
+contents:
+  - title: Preferred Locations
+    description: 
+      - Remote
+      - Hybrid
+      - Front Range, Colorado
+      - Mountain Time Zone
+  - title: Previous Industries
+    description: 
+      - Operations and Management
+      - Accounting and Finance
+      - Content Creation and Graphic Design
+      - Software Development
